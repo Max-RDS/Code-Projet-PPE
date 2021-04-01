@@ -1,0 +1,93 @@
+/*
+	@name web_1920___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_web_1920___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1670px;
+	height: 1080px;
+}
+
+#_bg__web_1920___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1670px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#image_1 {
+	top: -47px;
+	left: 0px;
+	width: 1879px;
+	height: 1174px;
+}
+
+
+#rectangle_1 {
+	opacity:0.66000002622604;
+	top: 280px;
+	left: 134px;
+	width: 1404px;
+	height: 794px;
+	-ms-border-radius: 122px;
+	-o-border-radius: 122px;
+	-moz-border-radius: 122px;
+	-webkit-border-radius: 122px;
+	border-radius: 122px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2 {
+	opacity:0.76999998092651;
+	top: 53px;
+	left: 134px;
+	width: 1404px;
+	height: 185px;
+	-ms-border-radius: 70px;
+	-o-border-radius: 70px;
+	-moz-border-radius: 70px;
+	-webkit-border-radius: 70px;
+	border-radius: 70px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#logo {
+	top: 76px;
+	left: 221px;
+	width: 215.5px;
+	height: 138px;
+}
+
+
+#suivi_des_remboursement_des_frais {
+	top: 111px;
+	left: 534px;
+	width: 816px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#707070;
+}
+
+
+
+/* Add your custom CSS here */
